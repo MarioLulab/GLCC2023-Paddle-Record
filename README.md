@@ -17,3 +17,5 @@ A record for developing GLCC 2023 Project with the topic of  "Implement @to_stat
 1. Paddle源代码: https://github.com/PaddlePaddle/Paddle/
 
 2. 「PyLayer功能支持动转静」 课题主页: https://www.gitlink.org.cn/glcc/2023/subjects/detail/599
+
+3. PR: https://github.com/PaddlePaddle/Paddle/pull/56108
