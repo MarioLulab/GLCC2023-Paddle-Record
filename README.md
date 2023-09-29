@@ -21,5 +21,5 @@ A record for developing GLCC 2023 Project with the topic of  "Implement @to_stat
 3. related PR: 
     * [GLCC]Part-1: Add pylayer op to Support @to_static: https://github.com/PaddlePaddle/Paddle/pull/56108
     * [GLCC]Part-2: @to_static support for PyLayer: https://github.com/PaddlePaddle/Paddle/pull/56531
-    * [GLCC]Part-3: Support jit.save and jit.load for pylayer op: https://github.com/PaddlePaddle/Paddle/pull/57066/
-    * ... ...
+    * [GLCC]Part-3: Support jit.save and jit.load for pylayer op: https://github.com/PaddlePaddle/Paddle/pull/57066
+    * [GLCC]Part-4: fix testcases for dy2st PyLayer: https://github.com/PaddlePaddle/Paddle/pull/57633
